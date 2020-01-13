@@ -1,3 +1,8 @@
+/*
+Le temps, la distance du parcours ne sont pas calculé, le vitesse maximale non plus.
+Tout le programme est dans le la boucle principale loop( 
+*/
+
 //Ajout des fichiers sources (provenance des fonctions)
 #include "Ultrasonic.h"
 #include "Grove_LED_Bar.h"
