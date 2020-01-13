@@ -1,3 +1,7 @@
+/*
+Programme non mis en fonction, temps du parcours chronomètré
+*/
+
 //Ajout des fichiers sources (provenance des fonctions)
 #include "Ultrasonic.h"
 #include "Grove_LED_Bar.h"
