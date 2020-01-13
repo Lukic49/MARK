@@ -1,6 +1,7 @@
 /*
  * Programme dédié au Robot MARK (N°3)
  * Le robot rempli tous les champs du cahier des charges à l'exception de la détection de la vitesse max des roues
+ * Le calcul de l'énergie est à revoir, remesure du courant correcte car 150mA = conso moteur != conso robot
  * Le programme a été réalisé par Luc Veyriol et Lucas Raoult
  */
 //Ajout des fichiers sources (provenance des fonctions)
